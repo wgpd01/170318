@@ -1,0 +1,14 @@
+同學們分享的 jQuery Plugin 網址清單:
+
+https://fullcalendar.io/
+https://markgoodyear.com/2013/01/scrollup-jquery-plugin/
+http://www.htmleaf.com/jQuery/shijuecha/201604303409.html
+http://macloudlab.tw/jquery-jqzoom%E7%AF%84%E4%BE%8B/
+http://www.htmleaf.com/jQuery/Calendar-Date-Time-picker/201512182919.html
+
+http://idangero.us/swiper/#.WMwPTIVOJZV
+http://nick-jonas.github.io/threesixtyjs/
+https://tympanus.net/Tutorials/AnimatedFormSwitching/
+http://timepicker.co/
+http://sweefty.com/tinytip/
+
